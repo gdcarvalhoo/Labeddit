@@ -8,18 +8,7 @@
     "build": "tsc",
     "dev": "ts-node-dev ./src/index.ts",
     "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ItaloRochaOliveira/labeddit-back-end.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ItaloRochaOliveira/labeddit-back-end/issues"
-  },
-  "homepage": "https://github.com/ItaloRochaOliveira/labeddit-back-end#readme",
+  },  
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/cors": "^2.8.13",
