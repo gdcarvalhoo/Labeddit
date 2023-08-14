@@ -1,7 +1,9 @@
 # **Projeto Labeddit Back End**
 
 📖 Introdução
-O Projeto Labeddit é uma API de posts onde os usuários podem criar uma conta, fazer login, criar posts e interagir com eles curtindo e comentando. O projeto também serve como base para o front-end, que é implementado no programa. 
+O Labeddit Project consiste em uma API de publicações, na qual os utilizadores podem estabelecer uma conta, realizar o login, gerar publicações e interagir com estas através da atribuição de curtidas e comentários. Adicionalmente, o projeto desempenha um papel fundamental como alicerce para a interface do utilizador, que é concretizada no software.
+
+As temáticas fundamentais a serem exploradas englobam:
 
 Os principais tópicos a serem estudados incluem:
 
@@ -14,7 +16,7 @@ Autenticação.
 
 ## 🔗Link de Acesso
 
-- Para ter acesso a documentação da API acesse o link [clique aqui!]
+- Para ter acesso a documentação da API acesse o link: [Postman](https://documenter.getpostman.com/view/26335727/2s9Xy6ooyD)
 
 
 ## 📄Concepção do Projeto
@@ -44,7 +46,6 @@ signup, com o método get.
 signup, com o método post.
 -CreateComment: Pode criar um comentário na API, mas só se informar o token criado no login ou
 signup, com o método post.
-
 -LikeOrDislikePost - Mecânica de like ou dislike do post da API, mas só se for informado o token
 adquirido no login ou signup e o id do post a ser curtido, também será necessário informar
 no body o true ou false, onde true é like e false deslike.
@@ -89,5 +90,5 @@ typescript
 
 ![TypesScript](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-f8f8ff?style=for-the-badge&logo=express&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)ç
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
