@@ -1,6 +1,7 @@
 # **Projeto Labeddit Back End**
 
 📖 Introdução
+
 O Labeddit Project consiste em uma API de publicações, na qual os utilizadores podem estabelecer uma conta, realizar o login, gerar publicações e interagir com estas através da atribuição de curtidas e comentários. Adicionalmente, o projeto desempenha um papel fundamental como alicerce para a interface do utilizador, que é concretizada no software.
 
 As temáticas fundamentais a serem exploradas englobam:
